@@ -27,12 +27,27 @@ jobs:
       - name: Mirror signals/ to _signals/ for Jekyll collection
         run: |
           mkdir -p _signals
-          # Flatten signals/YYYY/MM-DD.md -> _signals/YYYY-MM-DD.md
+          # Flatten signals/YYYY/MM-DD.md -> _signals/YYYY-MM-DD.md and inject front matter
           if [ -d signals ]; then
             find signals -type f -name "*.md" | while read f; do
               year=$(basename "$(dirname "$f")")
-              file=$(basename "$f")
-              cp "$f" "_signals/${year}-${file}"
+              file=$(basename "$f")                # e.g. 04-22.md
+              md_day="${file%.md}"                  # 04-22
+              date="${year}-${md_day}"              # 2026-04-22
+              # Extract first H1 as title, fallback to date
+              title=$(grep -m1 '^# ' "$f" | sed 's/^# //' || true)
+              [ -z "$title" ] && title="OPC日报 $date"
+              out="_signals/${date}.md"
+              {
+                echo "---"
+                echo "layout: signal"
+                echo "title: \"${title}\""
+                echo "date: ${date}"
+                echo "permalink: /signals/${date}/"
+                echo "---"
+                echo ""
+                cat "$f"
+              } > "$out"
             done
           fi
           ls -la _signals/ || true
