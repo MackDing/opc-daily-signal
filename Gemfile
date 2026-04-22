@@ -1,2 +1,6 @@
 source "https://rubygems.org"
 gem "jekyll", "~> 4.3"
+gem "bigdecimal"
+gem "csv"
+gem "base64"
+gem "logger"
