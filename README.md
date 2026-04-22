@@ -2,7 +2,7 @@
 
 OPC（一人公司）每日决策情报。不是新闻摘要，是经过第一性原理过滤的可执行信号。
 
-🤖 本仓库由 [Hermes Agent](https://github.com/hermes-ai/hermes-agent) 自动生成并执行——从信息源扫描、信号筛选、深度分析到 Git 提交与 Telegram 推送，全链路 AI 驱动，零人工编辑。
+🤖 本仓库由 [Hermes Agent](https://github.com/NousResearch/hermes-agent) 自动生成并执行——从信息源扫描、信号筛选、深度分析到 Git 提交与 Telegram 推送，全链路 AI 驱动，零人工编辑。
 
 ## 📖 看正文
 👉 **全部归档**：[signals/](signals/)
