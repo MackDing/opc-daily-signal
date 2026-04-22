@@ -39,7 +39,12 @@ signals/
 ## 订阅
 
 - Telegram 频道: [OPC.REN](https://t.me/opc_ren)
+- X/Twitter: [@HiClaws](https://x.com/hiclaws)
 - GitHub: Watch this repo / RSS via `https://github.com/MackDing/opc-daily-signal/commits/main.atom`
+
+## 作者
+
+[Mack](https://x.com/hiclaws) — OPC 创始人，正在用 AI 重新定义一人公司的边界。产品: [opc.ren](https://opc.ren)
 
 ## License
 
