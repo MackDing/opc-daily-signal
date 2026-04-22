@@ -44,7 +44,23 @@ signals/
 
 ## 作者
 
-[Mack](https://x.com/hiclaws) — OPC 创始人，正在用 AI 重新定义一人公司的边界。产品: [opc.ren](https://opc.ren)
+🦞 **Mack** — OPC 决策雷达创始人 · [@HiClaws](https://x.com/hiclaws) · 📍 深圳
+
+**社区**
+- 🧩 **🦞Claws 爪爪圈** 发起人（2000+ 极客共建的 Super Collective）
+- 🌎 AI 落地与「SC 超级群体」生态布道者
+- 🤖 🦞OpenClaw 社区源码华人贡献者（PR #11106）
+
+**职业**
+- 💻 十年程序员，专注 AI 智能化与 B 端商业落地
+- ⚡ 金融级 AI 驱动智能化平台架构 / 全栈 AI 开发者
+- 🚀 前华为 2012 实验室大数据中台质量管理团队 TL
+
+**作品**
+- 🦞 处女作：自然语安装 [OpenClaw Installer Skill](https://github.com/MackDing/openclaw-installer-skill)
+- 🦞 二著：人人都是程序猿 [CodexClaw](https://github.com/MackDing/CodexClaw)
+- 📡 本作：[OPC Daily Signal](https://github.com/MackDing/opc-daily-signal) — 一人公司每日决策情报
+- 🌐 产品：[opc.ren](https://opc.ren)
 
 ## License
 
