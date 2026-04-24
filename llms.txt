@@ -1,0 +1,26 @@
+# OPC Daily Signal
+
+> AI-powered daily decision intelligence for one-person companies. Automated news filtering, analysis, and actionable briefings.
+
+## What is OPC Daily Signal?
+
+A daily intelligence system designed for OPC (One-Person Company) founders. Filters noise from 35+ platforms, applies first-principles analysis, and delivers actionable briefings with second-order thinking.
+
+## Key Features
+
+- Multi-platform monitoring (Douyin, Zhihu, Bilibili, Wall Street Journal CN, etc.)
+- AI-powered relevance scoring against OPC survival formula
+- Second-order consequence analysis
+- Contrarian viewpoint generation
+- Automated delivery via Telegram/WeChat/DingTalk
+- Source attribution and fact verification
+
+## OPC Survival Formula
+
+Every signal is evaluated against: (Unit Price × Volume) / Time Investment > Cost
+
+## Links
+
+- Repository: https://github.com/MackDing/opc-daily-signal
+- Author: https://github.com/MackDing
+- OPC Hub: https://opc.ren
