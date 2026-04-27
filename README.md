@@ -50,7 +50,7 @@ signals/
 
 - Telegram 频道: [OPC.REN](https://t.me/opc_ren)
 - X/Twitter: [@HiClaws](https://x.com/hiclaws)
-- GitHub: Watch this repo / RSS via `https://github.com/MackDing/opc-daily-signal/commits/main.atom`
+- GitHub: Watch this repo / RSS via `https://github.com/Claws-ZH/opc-daily-signal/commits/main.atom`
 
 ## 作者
 
@@ -69,7 +69,7 @@ signals/
 **作品**
 - 🦞 处女作：自然语安装 [OpenClaw Installer Skill](https://github.com/MackDing/openclaw-installer-skill)
 - 🦞 二著：人人都是程序猿 [CodexClaw](https://github.com/MackDing/CodexClaw)
-- 📡 本作：[OPC Daily Signal](https://github.com/MackDing/opc-daily-signal) — 一人公司每日决策情报
+- 📡 本作：[OPC Daily Signal](https://github.com/Claws-ZH/opc-daily-signal) — 一人公司每日决策情报
 - 🌐 产品：[opc.ren](https://opc.ren)
 
 ## License
@@ -89,5 +89,5 @@ CC BY-NC 4.0
 | [**CodexClaw**](https://github.com/MackDing/CodexClaw) | Telegram bot for remote Codex access with MCP + subagent routing |
 | [**awesome-ai-api**](https://github.com/MackDing/awesome-ai-api) | Leaderboard of 200+ AI API gateways & relays |
 | [**claude-context-health**](https://github.com/MackDing/claude-context-health) | Diagnose & fix Claude Code session degradation |
-| [**opc-daily-signal**](https://github.com/MackDing/opc-daily-signal) | AI-powered daily decision intelligence for OPC founders |
+| [**opc-daily-signal**](https://github.com/Claws-ZH/opc-daily-signal) | AI-powered daily decision intelligence for OPC founders |
 | [**doc-preprocess-hub**](https://github.com/MackDing/doc-preprocess-hub) | Enterprise document preprocessing — MinerU + docling |

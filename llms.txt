@@ -21,6 +21,6 @@ Every signal is evaluated against: (Unit Price × Volume) / Time Investment > Co
 
 ## Links
 
-- Repository: https://github.com/MackDing/opc-daily-signal
+- Repository: https://github.com/Claws-ZH/opc-daily-signal
 - Author: https://github.com/MackDing
 - OPC Hub: https://opc.ren
