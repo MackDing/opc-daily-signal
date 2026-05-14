@@ -427,3 +427,36 @@ details[open] .archive-toggle::after {
   background: var(--border);
   border-radius: 3px;
 }
+
+
+/* OPC manifesto banner */
+.opc-manifesto {
+  margin: 1.5rem 0 2.5rem;
+  padding: 1.25rem 1.5rem;
+  border: 1px solid var(--accent);
+  border-left: 4px solid var(--accent);
+  border-radius: 6px;
+  background: rgba(233, 69, 96, 0.04);
+}
+.opc-manifesto__formula {
+  margin: 0 0 0.5rem;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--text);
+}
+.opc-manifesto__formula strong {
+  font-weight: 600;
+  color: var(--accent);
+  font-feature-settings: "tnum";
+  letter-spacing: 0.01em;
+}
+.opc-manifesto__rule {
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.55;
+  color: var(--text-muted);
+}
+@media (min-width: 720px) {
+  .opc-manifesto { padding: 1.5rem 1.75rem; }
+  .opc-manifesto__formula { font-size: 1.1rem; }
+}
